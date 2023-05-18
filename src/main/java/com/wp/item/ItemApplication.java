@@ -9,7 +9,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 @SpringBootApplication
 @EnableConfigurationProperties
 public class ItemApplication extends SpringBootServletInitializer {
-
+    //shishi
     public static void main(String[] args) {
         SpringApplication.run(ItemApplication.class, args);
     }
